@@ -193,19 +193,19 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-#  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-#  Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -229,7 +229,7 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibisep&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bibisep&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
