@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:2E1065,55:7B2CBF,80:A855F7,100:E0AAFF&text=GABRIELA%20MARI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=JARVIS%20CORE%20ONLINE&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:2E1065,55:7B2CBF,80:A855F7,100:E0AAFF&text=GABRIELA%20SILVA&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=JARVIS%20CORE%20ONLINE&descAlignY=58&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Neural+Core...;%3E+Data+Science+%7C+Artificial+Intelligence;%3E+Oracle+Cloud+%7C+Python+%7C+SQL;%3E+Building+Intelligent+Solutions"/>
 
@@ -87,7 +87,7 @@ Machine Learning
 <td width="62%">
 
 ```text
-ID............ GABRIELA_MARI
+ID............ GABRIELA_SILVA
 ROLE.......... DATA SCIENCE
 LOCATION...... BRAZIL
 STATUS........ BUILDING THE FUTURE
