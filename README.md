@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,40:4B0082,70:7B2CBF,100:C77DFF&text=GABRIELA%20SILVA&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Initializing%20AI%20Portfolio...&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,40:4B0082,70:7B2CBF,100:C77DFF&text=GABRIELA%20MARI&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Initializing%20AI%20Portfolio...&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
@@ -33,12 +33,12 @@
 #  Sobre Mim
 
 ```text
-┌──────────────────────────────────────────────┐
-│ USER : Gabriela Silva                        │
-│ ROLE : Data Science Student                  │
-│ CORE : Analytics • AI • Cloud • Automation   │
-│ STATUS : Learning • Building • Growing       │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│ USER : Gabriela Mari da Silva                        │
+│ ROLE : Data Science Student                          │
+│ CORE : Analytics • AI • Cloud • Automation           │
+│ STATUS : Learning • Building • Growing               │
+└──────────────────────────────────────────────────────┘
 ```
 
 Sou estudante da **FIAP**, apaixonada por tecnologia, dados e inteligência artificial.
