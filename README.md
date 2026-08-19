@@ -124,7 +124,15 @@ STATUS: CONSTRUINDO A PRÓXIMA GERAÇÃO DE PROJETOS...
 </div>
 
 ---
+### 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bibisep/bibisep/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
 ### 🤝 Conecte-se
 
 <div align="center">
