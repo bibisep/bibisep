@@ -1,336 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:2E1065,55:7B2CBF,80:A855F7,100:E0AAFF&text=GABRIELA%20SILVA&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=JARVIS%20CORE%20ONLINE&descAlignY=58&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Neural+Core...;%3E+Data+Science+%7C+Artificial+Intelligence;%3E+Oracle+Cloud+%7C+Python+%7C+SQL;%3E+Building+Intelligent+Solutions"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2D1B4E,40:6A2C9E,70:9D4EDD,100:C77DFF&text=GABRIELA%20MARI&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Data%20Science%20%7C%20Cloud%20%7C%20AI&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 ---
 
+### 💜 Sobre Mim
+
+```
+┌──────────────────────────────────────────────────────┐
+│ USER   : Gabriela Mari da Silva                       │
+│ ROLE   : Data Science Student @ FIAP                  │
+│ CORE   : Data Engineering • Cloud • AI • Automação     │
+│ STATUS : Aprendendo • Construindo • Evoluindo          │
+└──────────────────────────────────────────────────────┘
+```
+
+Formada em **Análise e Desenvolvimento de Sistemas**, hoje cursando **Ciência de Dados** na FIAP. Curto transformar dados brutos em decisões inteligentes — de pipelines no Airflow a dashboards que realmente contam uma história.
+
+- 🔭 Trabalhando no **Medlytics** — sistema de capacidade hospitalar com Oracle Cloud
+- ☁️ Certificada **AWS Cloud Practitioner** | AWS re/Start (Escola da Nuvem)
+- 🧩 Interesse em Medallion Architecture, orquestração de dados e ML aplicado
+- 🌱 Sempre aprendendo algo novo em Python, SQL e Cloud
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
-![](https://img.shields.io/badge/SYSTEM-ONLINE-7B2CBF?style=for-the-badge)
-![](https://img.shields.io/badge/AI_MODE-ACTIVE-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/STATUS-NEURAL_CORE-E0AAFF?style=for-the-badge)
+**Linguagens**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
+
+**Banco de Dados**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%20SQL-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white" />
+
+**Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white" />
+
+**Data & Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-6A2C9E?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Apache_Airflow-6A2C9E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-9D4EDD?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
 ---
 
-<div align="center">
+### 🚀 Projetos em Destaque
 
 <table>
 <tr>
-<td width="320">
-
-### AI CORE
-
-```text
-STATUS..... ONLINE
-VERSION.... 26.08
-POWER....... 99.8%
-SECURITY.... ENABLED
-```
-
-</td>
-
-<td width="320">
-
-### Neural Matrix
-
-```text
-███████████████ 98%
-
-Python
-Oracle AI
-Cloud Computing
-Machine Learning
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<svg width="100%" height="16" viewBox="0 0 900 16" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="purpleGlow" x1="0%" x2="100%">
-<stop offset="0%" stop-color="#2E1065"/>
-<stop offset="35%" stop-color="#7B2CBF"/>
-<stop offset="70%" stop-color="#A855F7"/>
-<stop offset="100%" stop-color="#E0AAFF"/>
-</linearGradient>
-</defs>
-<rect x="0" y="7" width="900" height="2" rx="2" fill="url(#purpleGlow)"/>
-<circle cx="450" cy="8" r="4" fill="#E0AAFF"/>
-</svg>
-
-</div>
-
-# USER PROFILE
-
-<table>
-<tr>
-
-<td width="38%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,aws,mongodb,git" width="180"/>
-
-</td>
-
-<td width="62%">
-
-```text
-ID............ GABRIELA_SILVA
-ROLE.......... DATA SCIENCE
-LOCATION...... BRAZIL
-STATUS........ BUILDING THE FUTURE
-
-SPECIALIZATION
-
-• Artificial Intelligence
-• Data Analytics
-• Cloud Architecture
-• Oracle Database
-• Automation
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# TECH STACK
-
-<div align="center">
-
-## Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js"/>
-
-## Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-## Cloud
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-## Data & Analytics
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-## Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-
-</div>
-
----
-
-# TECH RADAR
-
-<div align="center">
-
-| CORE | DATA | CLOUD |
-|------|------|------|
-| Python | Oracle | AWS |
-| Java | SQL | OCI |
-| HTML | MongoDB | Linux |
-| CSS | Power BI | Git |
-
-</div>
-
----
-
-# SKILL MATRIX
-
-| Tecnologia | Nível |
-|------------|-------|
-| Python | ██████████ |
-| SQL | █████████ |
-| Oracle | ████████ |
-| Power BI | ████████ |
-| AWS | ███████ |
-| Java | ███████ |
-| MongoDB | ██████ |
-
----
-
-# FEATURED PROJECTS
-
-<table>
-<tr>
-
 <td width="50%">
 
-### MedLytics
-
-Hospital Intelligence Platform
-
-- Oracle Cloud
-- AI Database
-- Smart Dashboards
-- SQL Analytics
+**🏥 Medlytics**
+Sistema inteligente para gestão hospitalar usando Oracle Cloud.
+`OCI` `Oracle AI Database` `SQL` `Dashboards`
 
 </td>
-
 <td width="50%">
 
-### Sales Analytics
-
-Data Science Project
-
-- Python
-- Pandas
-- Power BI
-- Business Insights
+**📊 Análise de Vendas**
+Projeto completo de Ciência de Dados com Python.
+`Python` `Pandas` `Power BI` `Insights`
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%">
 
-<td>
-
-### TOGAF Architecture
-
-Enterprise Modeling
-
-- Archi
-- TOGAF
-- Phase C & D
+**🌎 Monitoramento Ambiental por Satélite**
+Sistema em Python para análise de dados ambientais — Global Solutions FIAP.
+`Python` `Data Analysis`
 
 </td>
+<td width="50%">
 
-<td>
-
-### Cloud Counter
-
-AWS Serverless
-
-- Lambda
-- DynamoDB
-- API Gateway
+**⚙️ Pipeline Airflow + Medallion**
+DAG completa consumindo API pública com camadas Bronze/Silver/Gold via Docker.
+`Airflow` `Docker` `ETL`
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# TERMINAL
+### 🎯 Objetivos Atuais
 
-```bash
-C:\Jarvis> boot --system
+```
+C:\Gabriela> boot --goals
 
-[ OK ] Python Engine
-[ OK ] Oracle Database
-[ OK ] Cloud Modules
-[ OK ] Analytics Engine
-[ OK ] Machine Learning Core
+[██████████░░] Oracle Cloud
+[████████░░░░] Data Science Portfolio
+[███████░░░░░] Machine Learning
+[██████░░░░░░] Backend Python
+[█████░░░░░░░] Open Source Contributions
 
-Next Objective:
-> Build AI Solutions.
+STATUS: CONSTRUINDO A PRÓXIMA GERAÇÃO DE PROJETOS...
 ```
 
 ---
 
-# GITHUB DASHBOARD
+### 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=radical&hide_border=true&bg_color=1A1025&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=radical&hide_border=true&bg_color=1A1025&title_color=C77DFF&text_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=bibisep&theme=radical&hide_border=true&background=1A1025&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibisep&bg_color=1A1025&color=C77DFF&line=9D4EDD&point=ffffff&area=true&area_color=6A2C9E&hide_border=true" />
 
 </div>
 
 ---
 
-# CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bibisep&theme=midnight-purple&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibisep&bg_color=0D1117&color=E0AAFF&line=A855F7&point=C77DFF&area=true&area_color=7B2CBF&hide_border=true"/>
-
-</div>
-
----
-
-# GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bibisep&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-# NEURAL PATH
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bibisep/bibisep/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# CONNECT
+### 🤝 Conecte-se
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabrielamaridasilva">
-<img src="https://img.shields.io/badge/LINKEDIN-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:gabrielamaridasilva@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6A2C9E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/bibisep">
-<img src="https://img.shields.io/badge/GITHUB-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0D1117,40:2E1065,70:7B2CBF,100:E0AAFF"/>
+`Transformando dados em decisões inteligentes, um commit de cada vez.`
 
-### NEURAL NETWORK ONLINE
-
-`Building intelligent systems one commit at a time.`
-
-<img src="https://komarev.com/ghpvc/?username=bibisep&style=for-the-badge&color=A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C77DFF,50:6A2C9E,100:2D1B4E&section=footer" />
 
 </div>
