@@ -197,9 +197,9 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -209,41 +209,39 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=bibisep&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-#  Activity Graph
+## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibisep&bg_color=0D1117&color=E0AAFF&line=A855F7&point=C77DFF&area=true&area_color=7B2CBF&hide_border=true"/>
 
 </div>
 
 ---
 
-#  GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bibisep&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-#  Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bibisep/bibisep/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-> Para essa animação funcionar, é necessário criar um GitHub Action no repositório do perfil. O workflow está logo abaixo.
 
 ---
 
@@ -268,6 +266,6 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 `Building the future one commit at a time.`
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7B2CBF"/>
+<img src="https://komarev.com/ghpvc/?username=bibisep&style=for-the-badge&color=7B2CBF"/>
 
 </div>
