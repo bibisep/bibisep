@@ -247,30 +247,23 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-#  Conecte-se
+# Conecte-se
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gabrielamaridasilva">
+  <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:gabrielamaridasilva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/bibisep">
+  <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:4B0082,100:C77DFF"/>
-
 ### SYSTEM SHUTDOWN? NEVER.
 
 `Building the future one commit at a time.`
