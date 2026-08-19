@@ -1,63 +1,114 @@
-<!-- ========================================================= -->
-<!--             CYBER AI PROFILE - GITHUB README              -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,40:4B0082,70:7B2CBF,100:C77DFF&text=GABRIELA%20MARI&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Initializing%20AI%20Portfolio...&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:2E1065,55:7B2CBF,80:A855F7,100:E0AAFF&text=GABRIELA%20MARI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=JARVIS%20CORE%20ONLINE&descAlignY=58&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Neural+Core...;%3E+Data+Science+%7C+Artificial+Intelligence;%3E+Oracle+Cloud+%7C+Python+%7C+SQL;%3E+Building+Intelligent+Solutions"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=%3E+Booting+JARVIS+Core...;%3E+Data+Science+%7C+AI+%7C+Cloud+Computing;%3E+Oracle+%7C+Python+%7C+SQL+%7C+AWS;%3E+Building+Intelligent+Solutions;%3E+Welcome+to+my+GitHub."/>
-
-</div>
-
----
-
-#  SYSTEM STATUS
 
 <div align="center">
 
 ![](https://img.shields.io/badge/SYSTEM-ONLINE-7B2CBF?style=for-the-badge)
-![](https://img.shields.io/badge/AI_MODE-ACTIVE-C77DFF?style=for-the-badge)
-![](https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-5A189A?style=for-the-badge)
+![](https://img.shields.io/badge/AI_MODE-ACTIVE-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/STATUS-NEURAL_CORE-E0AAFF?style=for-the-badge)
 
 </div>
 
 ---
 
-#  Sobre Mim
+<div align="center">
+
+<table>
+<tr>
+<td width="320">
+
+### AI CORE
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│ USER : Gabriela Mari da Silva                        │
-│ ROLE : Data Science Student                          │
-│ CORE : Analytics • AI • Cloud • Automation           │
-│ STATUS : Learning • Building • Growing               │
-└──────────────────────────────────────────────────────┘
+STATUS..... ONLINE
+VERSION.... 26.08
+POWER....... 99.8%
+SECURITY.... ENABLED
 ```
 
-Sou estudante da **FIAP**, apaixonada por tecnologia, dados e inteligência artificial.
+</td>
 
-Atualmente construo projetos focados em:
+<td width="320">
 
-- Inteligência Artificial
-- Ciência de Dados
-- Cloud Computing
-- Arquitetura de Dados
-- Automação
-- Dashboards inteligentes
-- Oracle Cloud Infrastructure
+### Neural Matrix
 
-Minha missão é transformar dados em decisões inteligentes.
+```text
+███████████████ 98%
+
+Python
+Oracle AI
+Cloud Computing
+Machine Learning
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-#  Tech Stack
+<div align="center">
+
+<svg width="100%" height="16" viewBox="0 0 900 16" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="purpleGlow" x1="0%" x2="100%">
+<stop offset="0%" stop-color="#2E1065"/>
+<stop offset="35%" stop-color="#7B2CBF"/>
+<stop offset="70%" stop-color="#A855F7"/>
+<stop offset="100%" stop-color="#E0AAFF"/>
+</linearGradient>
+</defs>
+<rect x="0" y="7" width="900" height="2" rx="2" fill="url(#purpleGlow)"/>
+<circle cx="450" cy="8" r="4" fill="#E0AAFF"/>
+</svg>
+
+</div>
+
+# USER PROFILE
+
+<table>
+<tr>
+
+<td width="38%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,mongodb,git" width="180"/>
+
+</td>
+
+<td width="62%">
+
+```text
+ID............ GABRIELA_MARI
+ROLE.......... DATA SCIENCE
+LOCATION...... BRAZIL
+STATUS........ BUILDING THE FUTURE
+
+SPECIALIZATION
+
+• Artificial Intelligence
+• Data Analytics
+• Cloud Architecture
+• Oracle Database
+• Automation
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# TECH STACK
 
 <div align="center">
 
@@ -81,35 +132,44 @@ Minha missão é transformar dados em decisões inteligentes.
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
+## Ferramentas
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
 
 </div>
 
 ---
 
-#  Ferramentas
+# TECH RADAR
 
 <div align="center">
 
-| Ferramenta | Uso |
-|-----------|------|
-| Python | Ciência de Dados |
-| Oracle Database 26 AI | Banco de Dados |
-| SQL Developer | Consultas |
-| Power BI | Dashboards |
-| Airflow | Pipelines |
-| MongoDB | NoSQL |
-| Git/GitHub | Versionamento |
-| Figma | Protótipos |
-| VS Code | Desenvolvimento |
+| CORE | DATA | CLOUD |
+|------|------|------|
+| Python | Oracle | AWS |
+| Java | SQL | OCI |
+| HTML | MongoDB | Linux |
+| CSS | Power BI | Git |
 
 </div>
 
 ---
 
-#  Projetos em Destaque
+# SKILL MATRIX
 
-<div align="center">
+| Tecnologia | Nível |
+|------------|-------|
+| Python | ██████████ |
+| SQL | █████████ |
+| Oracle | ████████ |
+| Power BI | ████████ |
+| AWS | ███████ |
+| Java | ███████ |
+| MongoDB | ██████ |
+
+---
+
+# FEATURED PROJECTS
 
 <table>
 <tr>
@@ -118,25 +178,25 @@ Minha missão é transformar dados em decisões inteligentes.
 
 ### MedLytics
 
-Sistema inteligente para hospitais usando Oracle Cloud.
+Hospital Intelligence Platform
 
-- OCI
-- Oracle AI Database
-- SQL
-- Dashboards
+- Oracle Cloud
+- AI Database
+- Smart Dashboards
+- SQL Analytics
 
 </td>
 
 <td width="50%">
 
-### Análise de Vendas
+### Sales Analytics
 
-Projeto completo de Ciência de Dados.
+Data Science Project
 
 - Python
 - Pandas
 - Power BI
-- Insights
+- Business Insights
 
 </td>
 
@@ -144,25 +204,24 @@ Projeto completo de Ciência de Dados.
 
 <tr>
 
-<td width="50%">
+<td>
 
-### Arquitetura TOGAF
+### TOGAF Architecture
 
-Modelagem Enterprise Architecture.
+Enterprise Modeling
 
 - Archi
 - TOGAF
-- Fases C e D
+- Phase C & D
 
 </td>
 
-<td width="50%">
+<td>
 
 ### Cloud Counter
 
-Arquitetura AWS Serverless.
+AWS Serverless
 
-- Route53
 - Lambda
 - DynamoDB
 - API Gateway
@@ -173,39 +232,38 @@ Arquitetura AWS Serverless.
 
 </table>
 
-</div>
+---
+
+# TERMINAL
+
+```bash
+C:\Jarvis> boot --system
+
+[ OK ] Python Engine
+[ OK ] Oracle Database
+[ OK ] Cloud Modules
+[ OK ] Analytics Engine
+[ OK ] Machine Learning Core
+
+Next Objective:
+> Build AI Solutions.
+```
 
 ---
 
-#  Objetivos Atuais
-
-```
-C:\Gabriela> boot --goals
-
-[██████████░░] Oracle Cloud
-[████████░░░░] Data Science Portfolio
-[███████░░░░░] Machine Learning
-[██████░░░░░░] Backend Python
-[█████░░░░░░░] Open Source Contributions
-
-STATUS: BUILDING NEXT GENERATION PROJECTS...
-```
-
----
-
-## GitHub Analytics
+# GITHUB DASHBOARD
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibisep&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisep&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-## Contribution Streak
+# CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -215,7 +273,7 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-## Activity Graph
+# ACTIVITY GRAPH
 
 <div align="center">
 
@@ -225,7 +283,7 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-## GitHub Trophies
+# GITHUB TROPHIES
 
 <div align="center">
 
@@ -235,7 +293,7 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-## Contribution Snake
+# NEURAL PATH
 
 <div align="center">
 
@@ -245,27 +303,34 @@ STATUS: BUILDING NEXT GENERATION PROJECTS...
 
 ---
 
-# Conecte-se
+# CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabrielamaridasilva">
-  <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gabrielamaridasilva@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/bibisep">
-  <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-### SYSTEM SHUTDOWN? NEVER.
 
-`Building the future one commit at a time.`
+---
 
-<img src="https://komarev.com/ghpvc/?username=bibisep&style=for-the-badge&color=7B2CBF"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0D1117,40:2E1065,70:7B2CBF,100:E0AAFF"/>
+
+### NEURAL NETWORK ONLINE
+
+`Building intelligent systems one commit at a time.`
+
+<img src="https://komarev.com/ghpvc/?username=bibisep&style=for-the-badge&color=A855F7"/>
 
 </div>
